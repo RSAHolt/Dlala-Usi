@@ -1,0 +1,6 @@
+git init
+git add . #adds everything in your folder
+git commit -m "comment here"
+git branch -M main
+git remote add origin https://github.com/RSAHolt/Dlala-Usi.git
+git push -u origin main
